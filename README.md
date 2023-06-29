@@ -1,4 +1,4 @@
-# MSU-JAVA-challenge-03
+# MSU-WEBAPI-Challenge-04
 Forth MSU bootcamp challenge repository. It has the code to the website "Web Api Quiz" website. Also any changes or corrections to the code.
 *** 
 Hear is a Photo of the website.
